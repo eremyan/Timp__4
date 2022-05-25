@@ -1,0 +1,12 @@
+.codelite/*
+Makefile
+Timp__4_1/Debug/*
+Timp__4_2/Debug/*
+Timp__4_1_hash/*
+Timp__4_2_code/*
+Timp__no/*
+*.txt
+*.mk
+*.project
+*.workspace
+
